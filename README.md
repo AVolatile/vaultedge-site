@@ -1,27 +1,21 @@
-# VaultEdge – Financial & Loan Services Website Template
+# Volatile | Solutions Site
 
-#### Preview
+Static marketing site for Volatile | Solutions.
 
- - [Demo](https://themewagon.github.io/vaultedge/)
+## Overview
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/vaultedge/)
+- Industry focus: secure AI systems, workflow automation, delivery leadership, and modern web platforms
+- Stack: static HTML, CSS, and JavaScript
+- Key pages: `index.html`, `about.html`, `services.html`, `elements.html`, `post.html`, `single-post.html`, `contact.html`
 
-## Getting Started
+## Local Preview
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/vaultedge.git
-```
+Open `index.html` directly in a browser, or serve the repository with any static file server.
 
+## Ownership
 
-## Author 
-```
-Design and code is completely written by Rabina Vishwakarma and development team. 
-```
+Designed and developed by Volatile | Solutions.
 
-## License
-
- - Design and Code is Copyright &copy; <a href="https://github.com/Rabina-Vishwakarma/" target="_blank">Rabina Vishwakarma</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a># vaultedge-site
+- Website: https://volatile-solutions.net
+- GitHub: https://github.com/AVolatile/
+- LinkedIn: https://www.linkedin.com/in/anthony-volatile/
